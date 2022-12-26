@@ -1,0 +1,9 @@
+spring:
+  main:
+    banner-mode: OFF
+togglz:
+  features:
+    MY_FLAG:
+      enabled: false
+  console:
+    secured: false
